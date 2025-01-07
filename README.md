@@ -1,6 +1,6 @@
 
 
-### CRM Project Description: Product Management and Customer Engagement
+### DMS: Product Management and Customer Engagement
 
 **Project Overview**  
 This CRM (Customer Relationship Management) project is designed to streamline warehouse product management, enhance accounting workflows, notify stakeholders about product shortages, and efficiently manage product delivery. The goal is to provide a unified platform that integrates inventory management, accounting, and customer engagement to improve operational efficiency and customer satisfaction.
